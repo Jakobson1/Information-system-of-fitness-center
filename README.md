@@ -1,2 +1,3 @@
 # project_4
-Information system of fitness center
+Fitness center information system that offers various types of membership fees for men and women, as well as group types of training. There are also various benefits for regular members or discounts. Possibility of training individually or with a coach. The fitness center has a large number of equipment, a swimming pool and a sauna. First, i started design by system structured analysis from zero level of decomposition to second level.After that i had a summary diagram of decomposition.Next point is IDEF1X diagram which explains relationships betweeen objects theirs atributes etc.. Finish of this project is UML diagrams (use cases, diagram of state, diagrams activity, diagram colaboration) provides a better understanding what and in what order will be developed.
+Technologies i used: MS Visio, StarUML
